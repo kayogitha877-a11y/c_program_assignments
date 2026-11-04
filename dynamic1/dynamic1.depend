@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1793076991 source:c:\z_study\c_program_assignments\dynamic1\main.c
+	<stdio.h>
+	<stdlib.h>
+
